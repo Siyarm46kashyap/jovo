@@ -25,7 +25,7 @@ public class Inheritence {
         DeriveClass dc=new DeriveClass(); //Single Inheritance
         dc.baseMethod();
         dc.deriveMethod();
-        MultiLevel ml=new MultiLevel();    //Multi level Inheritance 
+        MultiLevel ml=new MultiLevel();    //Multi level Inheritance
         ml.baseMethod();
     }
 }
