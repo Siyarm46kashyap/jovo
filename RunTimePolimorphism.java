@@ -28,6 +28,6 @@ public class RunTimePolimorphism {
         Poly1 p1=new Poly2(); // Upcasting(it is safe).
         p1.print();
         p1.get();
-        p1.get1();
+        p.get1();
     }
 }
