@@ -24,8 +24,8 @@ class Poly2 extends Poly1
 
 public class RunTimePolimorphism {
     public static void main(String[] args) {
-        Poly2 p=new Poly2(); // Downcastin
-        Poly1 p1=new Poly2(); // Upcasting(it is safe).
+        Poly2 p = new Poly2(); // Downcastin
+        Poly1 p1 = new Poly2(); // Upcasting(it is safe).
         p1.print();
         p1.get();
         p.get1();

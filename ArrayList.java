@@ -1,4 +1,3 @@
-import java.util.*;
 import java.util.ArrayList;
 class ArrayistExample {
     ArrayList<Integer> arr = new ArrayList<>();

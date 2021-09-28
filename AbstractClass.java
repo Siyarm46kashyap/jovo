@@ -18,7 +18,7 @@ class AbstractionExample1 extends AbstractionExample
 
 public class AbstractClass {
     public static void main(String[] args) {
-        AbstractionExample1 ab=new AbstractionExample1();
+        AbstractionExample1 ab = new AbstractionExample1();
         ab.withoutBody();
         ab.withBody();
     }
